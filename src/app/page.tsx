@@ -15,6 +15,7 @@ export default function Home() {
       </div>
 
       {/** SERVER COMPONENT DEFINITION */}
+      {/** Test code */}
       <div>
         <Suspense fallback={<p> Loading... </p>}>
           <CtxExtractor>
